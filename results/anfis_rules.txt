@@ -1,0 +1,48 @@
+ANFIS (first-order TSK) - 7 rules (coverage-aware), test fidelity 0.688
+
+R1: IF positive-word attention is High AND negative-word attention is Low AND negation is Absent THEN sentiment is POSITIVE (p_pos=0.95)
+    mean firing 0.112 | dominant on 9 test sentences, agreement 1.0
+R2: IF positive-word attention is Low AND negative-word attention is Low AND negation is Absent THEN sentiment is NEGATIVE (p_pos=0.22)
+    mean firing 0.098 | dominant on 11 test sentences, agreement 0.636
+R3: IF positive-word attention is Medium AND negative-word attention is Low AND negation is Absent THEN sentiment is POSITIVE (p_pos=0.93)
+    mean firing 0.293 | dominant on 22 test sentences, agreement 0.773
+R4: IF positive-word attention is High AND negative-word attention is Medium AND negation is Absent THEN sentiment is POSITIVE (p_pos=0.79)
+    mean firing 0.028 | dominant on 4 test sentences, agreement 0.5
+R5: IF positive-word attention is Low AND negative-word attention is High AND negation is Absent THEN sentiment is NEGATIVE (p_pos=0.00)
+    mean firing 0.146 | dominant on 12 test sentences, agreement 0.667
+R6: IF positive-word attention is Low AND negative-word attention is Medium AND negation is Absent THEN sentiment is NEGATIVE (p_pos=0.10)
+    mean firing 0.038 | dominant on 3 test sentences, agreement 1.0
+R7: IF positive-word attention is Low AND negative-word attention is Low AND negation is Present THEN sentiment is NEGATIVE (p_pos=0.25)
+    mean firing 0.200 | dominant on 19 test sentences, agreement 0.474
+
+Membership functions (centre, sigma):
+{
+  "pos_score": {
+    "Low": {
+      "centre": 0.0,
+      "sigma": 0.0204
+    },
+    "High": {
+      "centre": 0.2905,
+      "sigma": 0.02
+    },
+    "Medium": {
+      "centre": 0.0332,
+      "sigma": 0.0244
+    }
+  },
+  "neg_score": {
+    "Low": {
+      "centre": 0.0379,
+      "sigma": 0.02
+    },
+    "Medium": {
+      "centre": 0.0771,
+      "sigma": 0.02
+    },
+    "High": {
+      "centre": 0.3119,
+      "sigma": 0.02
+    }
+  }
+}

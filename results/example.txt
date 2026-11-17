@@ -1,0 +1,7 @@
+Sentence [97]: no sophomore slump for director sam mendes , who segues from oscar winner to oscar-winning potential with a smooth sleight of hand .
+DistilBERT: POSITIVE (P(pos)=0.995)
+
+ANFIS deciding rule R7 (firing 1.00, contribution +0.46 logit): IF positive-word attention is Low AND negative-word attention is Low AND negation is Present THEN NEGATIVE
+  inputs: pos=0.133 neg=0.021 negation=1 | evidence words: no
+LIME: no +0.479, smooth +0.267, slump -0.123, from -0.120, with +0.115  (surrogate=POS)
+SHAP: smooth +0.307, slump -0.232, oscar-winning +0.148, with +0.080, a +0.075

@@ -1,0 +1,1440 @@
+[
+ {
+  "idx": 97,
+  "sentence": "no sophomore slump for director sam mendes , who segues from oscar winner to oscar-winning potential with a smooth sleight of hand .",
+  "model_label": 1,
+  "model_p_pos": 0.9947522878646851,
+  "base_value": 0.5267514586448669,
+  "top_words": [
+   {
+    "word": "smooth",
+    "score": 0.3074207335400085
+   },
+   {
+    "word": "slump",
+    "score": -0.23151778112514876
+   },
+   {
+    "word": "oscar-winning",
+    "score": 0.14800537191331387
+   },
+   {
+    "word": "with",
+    "score": 0.07993432708705464
+   },
+   {
+    "word": "a",
+    "score": 0.07483728431786099
+   }
+  ]
+ },
+ {
+  "idx": 121,
+  "sentence": "it seems to me the film is about the art of ripping people off without ever letting them consciously know you have done so",
+  "model_label": 1,
+  "model_p_pos": 0.997744083404541,
+  "base_value": 0.506619930267334,
+  "top_words": [
+   {
+    "word": "without",
+    "score": 0.35946456191595644
+   },
+   {
+    "word": "art",
+    "score": 0.25212894671130925
+   },
+   {
+    "word": "ever",
+    "score": -0.14888264425098896
+   },
+   {
+    "word": "the",
+    "score": 0.128474633092992
+   },
+   {
+    "word": "them",
+    "score": -0.1082681748084724
+   }
+  ]
+ },
+ {
+  "idx": 388,
+  "sentence": "when leguizamo finally plugged an irritating character late in the movie .",
+  "model_label": 0,
+  "model_p_pos": 0.0007086927653290331,
+  "base_value": 0.4481513798236847,
+  "top_words": [
+   {
+    "word": "plugged",
+    "score": -0.19255972863660037
+   },
+   {
+    "word": "irritating",
+    "score": -0.18391148235423316
+   },
+   {
+    "word": "when",
+    "score": -0.10353694413424819
+   },
+   {
+    "word": "finally",
+    "score": 0.09849312866329758
+   },
+   {
+    "word": ".",
+    "score": -0.07707689745438984
+   }
+  ]
+ },
+ {
+  "idx": 350,
+  "sentence": "his comedy premises are often hackneyed or just plain crude , calculated to provoke shocked laughter , without following up on a deeper level .",
+  "model_label": 0,
+  "model_p_pos": 0.0020378753542900085,
+  "base_value": 0.5144599676132202,
+  "top_words": [
+   {
+    "word": "laughter",
+    "score": 0.16826317804516294
+   },
+   {
+    "word": "crude",
+    "score": -0.13473485876359823
+   },
+   {
+    "word": "hackneyed",
+    "score": -0.12964372010537772
+   },
+   {
+    "word": ",",
+    "score": -0.11890717006463092
+   },
+   {
+    "word": "without",
+    "score": -0.1162284800393536
+   }
+  ]
+ },
+ {
+  "idx": 72,
+  "sentence": "uses high comedy to evoke surprising poignance .",
+  "model_label": 1,
+  "model_p_pos": 0.9996333122253418,
+  "base_value": 0.33381909132003784,
+  "top_words": [
+   {
+    "word": "evoke",
+    "score": 0.25962104089558125
+   },
+   {
+    "word": "comedy",
+    "score": 0.1874158512800932
+   },
+   {
+    "word": "high",
+    "score": 0.15621849708259106
+   },
+   {
+    "word": "surprising",
+    "score": 0.12841158546507359
+   },
+   {
+    "word": "uses",
+    "score": -0.03922080993652344
+   }
+  ]
+ },
+ {
+  "idx": 108,
+  "sentence": "too often , the viewer is n't reacting to humor so much as they are wincing back in repugnance .",
+  "model_label": 0,
+  "model_p_pos": 0.005166544578969479,
+  "base_value": 0.5144599676132202,
+  "top_words": [
+   {
+    "word": "too",
+    "score": -0.18325169033778366
+   },
+   {
+    "word": "repugnance",
+    "score": -0.14767897909041494
+   },
+   {
+    "word": "n't",
+    "score": -0.09322449335013516
+   },
+   {
+    "word": ",",
+    "score": -0.036814598832279444
+   },
+   {
+    "word": "humor",
+    "score": 0.03385819301183801
+   }
+  ]
+ },
+ {
+  "idx": 235,
+  "sentence": "whether you like rap music or loathe it , you ca n't deny either the tragic loss of two young men in the prime of their talent or the power of this movie .",
+  "model_label": 1,
+  "model_p_pos": 0.9969412684440613,
+  "base_value": 0.5364761352539062,
+  "top_words": [
+   {
+    "word": "n't",
+    "score": 0.20374020274477794
+   },
+   {
+    "word": "loathe",
+    "score": -0.1988027454353869
+   },
+   {
+    "word": "deny",
+    "score": 0.1619082031614268
+   },
+   {
+    "word": "power",
+    "score": 0.10994801949016705
+   },
+   {
+    "word": "either",
+    "score": 0.07124684507317187
+   }
+  ]
+ },
+ {
+  "idx": 384,
+  "sentence": "at times , the suspense is palpable , but by the end there 's a sense that the crux of the mystery hinges on a technicality that strains credulity and leaves the viewer haunted by the waste of potential .",
+  "model_label": 0,
+  "model_p_pos": 0.0004904659581370652,
+  "base_value": 0.5312279462814331,
+  "top_words": [
+   {
+    "word": "but",
+    "score": -0.1385744093768153
+   },
+   {
+    "word": "credulity",
+    "score": -0.08476487184973219
+   },
+   {
+    "word": "palpable",
+    "score": 0.06505395919806947
+   },
+   {
+    "word": "crux",
+    "score": -0.05583521375046985
+   },
+   {
+    "word": "leaves",
+    "score": -0.05043778386334452
+   }
+  ]
+ },
+ {
+  "idx": 275,
+  "sentence": "an entertaining , colorful , action-filled crime story with an intimate heart .",
+  "model_label": 1,
+  "model_p_pos": 0.9998856782913208,
+  "base_value": 0.43226519227027893,
+  "top_words": [
+   {
+    "word": "colorful",
+    "score": 0.151272252202034
+   },
+   {
+    "word": "entertaining",
+    "score": 0.13310366248091063
+   },
+   {
+    "word": "heart",
+    "score": 0.1098901806709667
+   },
+   {
+    "word": "intimate",
+    "score": 0.08789664952394863
+   },
+   {
+    "word": "crime",
+    "score": -0.07713409722782671
+   }
+  ]
+ },
+ {
+  "idx": 79,
+  "sentence": "this is a train wreck of an action film -- a stupefying attempt by the filmmakers to force-feed james bond into the mindless xxx mold and throw 40 years of cinematic history down the toilet in favor of bright flashes and loud bangs .",
+  "model_label": 0,
+  "model_p_pos": 0.0003720968379639089,
+  "base_value": 0.528438925743103,
+  "top_words": [
+   {
+    "word": "mindless",
+    "score": -0.1438825926874415
+   },
+   {
+    "word": "toilet",
+    "score": -0.09638625499397416
+   },
+   {
+    "word": "bangs",
+    "score": -0.07887949485011632
+   },
+   {
+    "word": "loud",
+    "score": -0.06670837446727092
+   },
+   {
+    "word": "attempt",
+    "score": -0.05364692701862493
+   }
+  ]
+ },
+ {
+  "idx": 203,
+  "sentence": "bad .",
+  "model_label": 0,
+  "model_p_pos": 0.00023008995049167424,
+  "base_value": 0.7267339825630188,
+  "top_words": [
+   {
+    "word": "bad",
+    "score": -0.8286801597914746
+   },
+   {
+    "word": ".",
+    "score": 0.10217628944883472
+   }
+  ]
+ },
+ {
+  "idx": 297,
+  "sentence": "travels a fascinating arc from hope and euphoria to reality and disillusionment .",
+  "model_label": 1,
+  "model_p_pos": 0.998934805393219,
+  "base_value": 0.469191312789917,
+  "top_words": [
+   {
+    "word": "disillusionment",
+    "score": -0.2511652106186375
+   },
+   {
+    "word": "fascinating",
+    "score": 0.1875725882127881
+   },
+   {
+    "word": "hope",
+    "score": 0.14326698053628206
+   },
+   {
+    "word": "euphoria",
+    "score": 0.133721546176821
+   },
+   {
+    "word": "arc",
+    "score": 0.1284381791483611
+   }
+  ]
+ },
+ {
+  "idx": 397,
+  "sentence": "it 's worth seeing just on the basis of the wisdom , and at times , the startling optimism , of the children .",
+  "model_label": 1,
+  "model_p_pos": 0.9998564720153809,
+  "base_value": 0.5103430151939392,
+  "top_words": [
+   {
+    "word": "startling",
+    "score": 0.13072883803397417
+   },
+   {
+    "word": "wisdom",
+    "score": 0.12681077405189475
+   },
+   {
+    "word": "worth",
+    "score": 0.09680586773902178
+   },
+   {
+    "word": "optimism",
+    "score": 0.08884697034955025
+   },
+   {
+    "word": "seeing",
+    "score": 0.059035263024270535
+   }
+  ]
+ },
+ {
+  "idx": 262,
+  "sentence": "it 's like every bad idea that 's ever gone into an after-school special compiled in one place , minus those daytime programs ' slickness and sophistication ( and who knew they even had any ? ) .",
+  "model_label": 0,
+  "model_p_pos": 0.00026756824809126556,
+  "base_value": 0.5314326286315918,
+  "top_words": [
+   {
+    "word": "sophistication",
+    "score": 0.25302404994145034
+   },
+   {
+    "word": "bad",
+    "score": -0.14599944706651513
+   },
+   {
+    "word": "slickness",
+    "score": 0.10078105743325848
+   },
+   {
+    "word": ",",
+    "score": -0.05362581785811926
+   },
+   {
+    "word": "after-school",
+    "score": -0.04681609679846588
+   }
+  ]
+ },
+ {
+  "idx": 149,
+  "sentence": "the volatile dynamics of female friendship is the subject of this unhurried , low-key film that is so off-hollywood that it seems positively french in its rhythms and resonance .",
+  "model_label": 1,
+  "model_p_pos": 0.990090012550354,
+  "base_value": 0.5414127707481384,
+  "top_words": [
+   {
+    "word": "friendship",
+    "score": 0.17757159192115068
+   },
+   {
+    "word": "seems",
+    "score": 0.15328393865737863
+   },
+   {
+    "word": "positively",
+    "score": 0.15328393865737863
+   },
+   {
+    "word": "french",
+    "score": 0.12383613947266978
+   },
+   {
+    "word": "in",
+    "score": 0.12383613947266978
+   }
+  ]
+ },
+ {
+  "idx": 23,
+  "sentence": "a delectable and intriguing thriller filled with surprises , read my lips is an original .",
+  "model_label": 1,
+  "model_p_pos": 0.9998834133148193,
+  "base_value": 0.469191312789917,
+  "top_words": [
+   {
+    "word": "original",
+    "score": 0.23625186644494534
+   },
+   {
+    "word": "an",
+    "score": 0.1279140654951334
+   },
+   {
+    "word": "delectable",
+    "score": 0.12618330866098404
+   },
+   {
+    "word": "intriguing",
+    "score": 0.06646979134529829
+   },
+   {
+    "word": "surprises",
+    "score": 0.04739762330427766
+   }
+  ]
+ },
+ {
+  "idx": 273,
+  "sentence": "minority report is exactly what the title indicates , a report .",
+  "model_label": 0,
+  "model_p_pos": 0.1426575630903244,
+  "base_value": 0.3725791871547699,
+  "top_words": [
+   {
+    "word": "report",
+    "score": -0.3233517790213227
+   },
+   {
+    "word": "minority",
+    "score": -0.18010195542592555
+   },
+   {
+    "word": "is",
+    "score": 0.13603138935286552
+   },
+   {
+    "word": "what",
+    "score": 0.12296009139390662
+   },
+   {
+    "word": ".",
+    "score": -0.1104910634458065
+   }
+  ]
+ },
+ {
+  "idx": 312,
+  "sentence": "i 'll bet the video game is a lot more fun than the film .",
+  "model_label": 1,
+  "model_p_pos": 0.9977486729621887,
+  "base_value": 0.4481513798236847,
+  "top_words": [
+   {
+    "word": "fun",
+    "score": 0.5327547115739435
+   },
+   {
+    "word": "a",
+    "score": 0.11090005608275533
+   },
+   {
+    "word": "is",
+    "score": 0.07263452932238579
+   },
+   {
+    "word": "film",
+    "score": 0.05125086731277406
+   },
+   {
+    "word": ".",
+    "score": -0.05038629658520222
+   }
+  ]
+ },
+ {
+  "idx": 369,
+  "sentence": "without ever becoming didactic , director carlos carrera expertly weaves this novelistic story of entangled interrelationships and complex morality .",
+  "model_label": 1,
+  "model_p_pos": 0.9991181492805481,
+  "base_value": 0.5301180481910706,
+  "top_words": [
+   {
+    "word": "weaves",
+    "score": 0.15287831707391888
+   },
+   {
+    "word": "expertly",
+    "score": 0.11509685930795968
+   },
+   {
+    "word": ",",
+    "score": -0.09923957474529743
+   },
+   {
+    "word": "this",
+    "score": 0.09704346100334078
+   },
+   {
+    "word": "complex",
+    "score": 0.061770853120833635
+   }
+  ]
+ },
+ {
+  "idx": 394,
+  "sentence": "whether writer-director anne fontaine 's film is a ghost story , an account of a nervous breakdown , a trip down memory lane , all three or none of the above , it is as seductive as it is haunting .",
+  "model_label": 1,
+  "model_p_pos": 0.999407172203064,
+  "base_value": 0.5337515473365784,
+  "top_words": [
+   {
+    "word": "seductive",
+    "score": 0.36461285897530615
+   },
+   {
+    "word": "whether",
+    "score": -0.26024771362750065
+   },
+   {
+    "word": "haunting",
+    "score": 0.12783921502996237
+   },
+   {
+    "word": "breakdown",
+    "score": -0.11439724580850452
+   },
+   {
+    "word": "is",
+    "score": 0.1001684138784185
+   }
+  ]
+ },
+ {
+  "idx": 186,
+  "sentence": "pacino is brilliant as the sleep-deprived dormer , his increasing weariness as much existential as it is physical .",
+  "model_label": 1,
+  "model_p_pos": 0.9934484362602234,
+  "base_value": 0.5103430151939392,
+  "top_words": [
+   {
+    "word": "brilliant",
+    "score": 0.6960666441373178
+   },
+   {
+    "word": "weariness",
+    "score": -0.24694315902888775
+   },
+   {
+    "word": "physical",
+    "score": 0.133455779729411
+   },
+   {
+    "word": "the",
+    "score": 0.0835468687073444
+   },
+   {
+    "word": "sleep-deprived",
+    "score": -0.08020141872111708
+   }
+  ]
+ },
+ {
+  "idx": 190,
+  "sentence": "try as i may , i ca n't think of a single good reason to see this movie , even though everyone in my group extemporaneously shouted , ` thank you ! '",
+  "model_label": 0,
+  "model_p_pos": 0.004587074741721153,
+  "base_value": 0.5375779271125793,
+  "top_words": [
+   {
+    "word": "thank",
+    "score": 0.4229550849183094
+   },
+   {
+    "word": "n't",
+    "score": -0.3139616347034462
+   },
+   {
+    "word": "extemporaneously",
+    "score": -0.15588520554384952
+   },
+   {
+    "word": "good",
+    "score": -0.12499781330344766
+   },
+   {
+    "word": "see",
+    "score": 0.08950478115938106
+   }
+  ]
+ },
+ {
+  "idx": 331,
+  "sentence": "the chateau cleverly probes the cross-cultural differences between gauls and yanks .",
+  "model_label": 1,
+  "model_p_pos": 0.9996032118797302,
+  "base_value": 0.469191312789917,
+  "top_words": [
+   {
+    "word": "cross-cultural",
+    "score": 0.2837130550760776
+   },
+   {
+    "word": "cleverly",
+    "score": 0.24173595011234283
+   },
+   {
+    "word": "chateau",
+    "score": 0.14712737314403057
+   },
+   {
+    "word": "yanks",
+    "score": -0.08588199984903137
+   },
+   {
+    "word": "gauls",
+    "score": -0.05832654726691544
+   }
+  ]
+ },
+ {
+  "idx": 237,
+  "sentence": "a by-the-numbers effort that wo n't do much to enhance the franchise .",
+  "model_label": 0,
+  "model_p_pos": 0.0005318874609656632,
+  "base_value": 0.4808088541030884,
+  "top_words": [
+   {
+    "word": "n't",
+    "score": -0.4679751444418798
+   },
+   {
+    "word": "enhance",
+    "score": 0.3671260589171652
+   },
+   {
+    "word": "much",
+    "score": -0.23470003852617083
+   },
+   {
+    "word": "by-the-numbers",
+    "score": -0.17237838967412245
+   },
+   {
+    "word": "the",
+    "score": 0.09984977023123065
+   }
+  ]
+ },
+ {
+  "idx": 230,
+  "sentence": "reign of fire looks as if it was made without much thought -- and is best watched that way .",
+  "model_label": 0,
+  "model_p_pos": 0.3596896231174469,
+  "base_value": 0.49415844678878784,
+  "top_words": [
+   {
+    "word": "without",
+    "score": -0.20837703996585333
+   },
+   {
+    "word": "best",
+    "score": 0.18973784075205913
+   },
+   {
+    "word": "watched",
+    "score": 0.15508017125345455
+   },
+   {
+    "word": "much",
+    "score": -0.11972547319965088
+   },
+   {
+    "word": ".",
+    "score": -0.11738496540056076
+   }
+  ]
+ },
+ {
+  "idx": 277,
+  "sentence": "it just may inspire a few younger moviegoers to read stevenson 's book , which is a treasure in and of itself .",
+  "model_label": 1,
+  "model_p_pos": 0.99982750415802,
+  "base_value": 0.5144599676132202,
+  "top_words": [
+   {
+    "word": "treasure",
+    "score": 0.2104299309042593
+   },
+   {
+    "word": "inspire",
+    "score": 0.1256690351292491
+   },
+   {
+    "word": "moviegoers",
+    "score": 0.0724899012595415
+   },
+   {
+    "word": "a",
+    "score": 0.0625557544020315
+   },
+   {
+    "word": "in",
+    "score": 0.032305876103540264
+   }
+  ]
+ },
+ {
+  "idx": 111,
+  "sentence": "there is n't nearly enough fun here , despite the presence of some appealing ingredients .",
+  "model_label": 0,
+  "model_p_pos": 0.0008253530249930918,
+  "base_value": 0.469191312789917,
+  "top_words": [
+   {
+    "word": "n't",
+    "score": -0.44804194949392695
+   },
+   {
+    "word": "fun",
+    "score": 0.35876650591308135
+   },
+   {
+    "word": "despite",
+    "score": -0.3507907346847787
+   },
+   {
+    "word": "appealing",
+    "score": 0.11042712333680053
+   },
+   {
+    "word": "there",
+    "score": -0.0661557964340318
+   }
+  ]
+ },
+ {
+  "idx": 218,
+  "sentence": "all that 's missing is the spontaneity , originality and delight .",
+  "model_label": 0,
+  "model_p_pos": 0.17168870568275452,
+  "base_value": 0.4616403579711914,
+  "top_words": [
+   {
+    "word": "missing",
+    "score": -0.48078071706549963
+   },
+   {
+    "word": "delight",
+    "score": 0.30071745510213077
+   },
+   {
+    "word": "the",
+    "score": -0.20307137315103319
+   },
+   {
+    "word": "that",
+    "score": -0.13837854417700632
+   },
+   {
+    "word": "is",
+    "score": 0.10045742928195978
+   }
+  ]
+ },
+ {
+  "idx": 119,
+  "sentence": "comes ... uncomfortably close to coasting in the treads of the bicycle thief .",
+  "model_label": 0,
+  "model_p_pos": 0.008564931340515614,
+  "base_value": 0.469191312789917,
+  "top_words": [
+   {
+    "word": "coasting",
+    "score": -0.15624786067928653
+   },
+   {
+    "word": "treads",
+    "score": -0.08064021200698335
+   },
+   {
+    "word": "thief",
+    "score": -0.07970162966133405
+   },
+   {
+    "word": "to",
+    "score": -0.052292172748517864
+   },
+   {
+    "word": "comes",
+    "score": 0.04846399335656315
+   }
+  ]
+ },
+ {
+  "idx": 47,
+  "sentence": "a subtle and well-crafted ( for the most part ) chiller .",
+  "model_label": 1,
+  "model_p_pos": 0.9998636245727539,
+  "base_value": 0.43226519227027893,
+  "top_words": [
+   {
+    "word": "chiller",
+    "score": 0.3316456004977226
+   },
+   {
+    "word": "well-crafted",
+    "score": 0.14691092818975449
+   },
+   {
+    "word": "subtle",
+    "score": 0.0935584120452404
+   },
+   {
+    "word": "a",
+    "score": 0.06066639255732298
+   },
+   {
+    "word": "for",
+    "score": -0.058256887209912143
+   }
+  ]
+ },
+ {
+  "idx": 4,
+  "sentence": "it 's slow -- very , very slow .",
+  "model_label": 0,
+  "model_p_pos": 0.00031081135966815054,
+  "base_value": 0.33381909132003784,
+  "top_words": [
+   {
+    "word": "slow",
+    "score": -0.2154781056296997
+   },
+   {
+    "word": "slow",
+    "score": -0.11039105099916924
+   },
+   {
+    "word": "--",
+    "score": 0.07241164344122808
+   },
+   {
+    "word": ".",
+    "score": -0.03539030609681504
+   },
+   {
+    "word": "very",
+    "score": -0.020551819769025315
+   }
+  ]
+ },
+ {
+  "idx": 189,
+  "sentence": "its story may be a thousand years old , but why did it have to seem like it took another thousand to tell it to us ?",
+  "model_label": 0,
+  "model_p_pos": 0.0004635292571038008,
+  "base_value": 0.5201853513717651,
+  "top_words": [
+   {
+    "word": "?",
+    "score": -0.2329716424101207
+   },
+   {
+    "word": "old",
+    "score": -0.0604442725215146
+   },
+   {
+    "word": "its",
+    "score": -0.04558875981820165
+   },
+   {
+    "word": ",",
+    "score": -0.04049999688140815
+   },
+   {
+    "word": "us",
+    "score": 0.04032391274904512
+   }
+  ]
+ },
+ {
+  "idx": 336,
+  "sentence": "having had the good sense to cast actors who are , generally speaking , adored by the movie-going public , khouri then gets terrific performances from them all .",
+  "model_label": 1,
+  "model_p_pos": 0.9998632669448853,
+  "base_value": 0.5469108819961548,
+  "top_words": [
+   {
+    "word": "good",
+    "score": 0.187431154306978
+   },
+   {
+    "word": "having",
+    "score": -0.09210730716586113
+   },
+   {
+    "word": "who",
+    "score": 0.08523843980704744
+   },
+   {
+    "word": "terrific",
+    "score": 0.0838945819331067
+   },
+   {
+    "word": "adored",
+    "score": 0.08217219496145844
+   }
+  ]
+ },
+ {
+  "idx": 399,
+  "sentence": "if director michael dowse only superficially understands his characters , he does n't hold them in contempt .",
+  "model_label": 1,
+  "model_p_pos": 0.9336614012718201,
+  "base_value": 0.4970604479312897,
+  "top_words": [
+   {
+    "word": "if",
+    "score": -0.38451710050867405
+   },
+   {
+    "word": "only",
+    "score": -0.18227173639218866
+   },
+   {
+    "word": ".",
+    "score": 0.15685646584024654
+   },
+   {
+    "word": "n't",
+    "score": 0.15015185304218903
+   },
+   {
+    "word": "director",
+    "score": 0.14504223574476782
+   }
+  ]
+ },
+ {
+  "idx": 377,
+  "sentence": "nothing is sacred in this gut-buster .",
+  "model_label": 0,
+  "model_p_pos": 0.0009309589513577521,
+  "base_value": 0.28686344623565674,
+  "top_words": [
+   {
+    "word": "nothing",
+    "score": -0.5681566070670669
+   },
+   {
+    "word": "sacred",
+    "score": 0.3756791991800128
+   },
+   {
+    "word": "gut-buster",
+    "score": -0.11293298476448399
+   },
+   {
+    "word": ".",
+    "score": -0.03047624135069782
+   },
+   {
+    "word": "is",
+    "score": 0.023092374500265578
+   }
+  ]
+ },
+ {
+  "idx": 112,
+  "sentence": "hilariously inept and ridiculous .",
+  "model_label": 1,
+  "model_p_pos": 0.9824228286743164,
+  "base_value": 0.2764406204223633,
+  "top_words": [
+   {
+    "word": "hilariously",
+    "score": 0.804991638087813
+   },
+   {
+    "word": "and",
+    "score": 0.23379736635251902
+   },
+   {
+    "word": "ridiculous",
+    "score": -0.2208296673343284
+   },
+   {
+    "word": "inept",
+    "score": -0.1934851493424503
+   },
+   {
+    "word": ".",
+    "score": 0.08150770592328627
+   }
+  ]
+ },
+ {
+  "idx": 339,
+  "sentence": "if you enjoy more thoughtful comedies with interesting conflicted characters ; this one is for you .",
+  "model_label": 1,
+  "model_p_pos": 0.9997448325157166,
+  "base_value": 0.469191312789917,
+  "top_words": [
+   {
+    "word": "you",
+    "score": 0.33054621091578157
+   },
+   {
+    "word": "enjoy",
+    "score": 0.14018740318715572
+   },
+   {
+    "word": "interesting",
+    "score": 0.1151788995290796
+   },
+   {
+    "word": "conflicted",
+    "score": -0.07688302174210548
+   },
+   {
+    "word": "if",
+    "score": -0.056449453346431255
+   }
+  ]
+ },
+ {
+  "idx": 183,
+  "sentence": "the lower your expectations , the more you 'll enjoy it .",
+  "model_label": 1,
+  "model_p_pos": 0.9996402263641357,
+  "base_value": 0.3903903067111969,
+  "top_words": [
+   {
+    "word": "enjoy",
+    "score": 0.6924564637010917
+   },
+   {
+    "word": "'ll",
+    "score": 0.11833611218025908
+   },
+   {
+    "word": "lower",
+    "score": -0.1157689445875197
+   },
+   {
+    "word": "you",
+    "score": 0.09746081809862517
+   },
+   {
+    "word": "it",
+    "score": -0.06454337868490256
+   }
+  ]
+ },
+ {
+  "idx": 333,
+  "sentence": "a pleasant enough romance with intellectual underpinnings , the kind of movie that entertains even as it turns maddeningly predictable .",
+  "model_label": 1,
+  "model_p_pos": 0.9984666109085083,
+  "base_value": 0.5144599676132202,
+  "top_words": [
+   {
+    "word": "even",
+    "score": 0.2722239359337537
+   },
+   {
+    "word": "predictable",
+    "score": -0.16018757629317407
+   },
+   {
+    "word": "pleasant",
+    "score": 0.15967338415794075
+   },
+   {
+    "word": "entertains",
+    "score": 0.15133173361775537
+   },
+   {
+    "word": "that",
+    "score": 0.10969704700392968
+   }
+  ]
+ },
+ {
+  "idx": 44,
+  "sentence": "the title not only describes its main characters , but the lazy people behind the camera as well .",
+  "model_label": 0,
+  "model_p_pos": 0.004431349691003561,
+  "base_value": 0.4808088541030884,
+  "top_words": [
+   {
+    "word": "lazy",
+    "score": -0.667286448617233
+   },
+   {
+    "word": "not",
+    "score": 0.15119511033117305
+   },
+   {
+    "word": "but",
+    "score": -0.13350756984436885
+   },
+   {
+    "word": "well",
+    "score": 0.1260531286970945
+   },
+   {
+    "word": "people",
+    "score": -0.06992945364618208
+   }
+  ]
+ },
+ {
+  "idx": 370,
+  "sentence": "partway through watching this saccharine , easter-egg-colored concoction , you realize that it is made up of three episodes of a rejected tv show .",
+  "model_label": 0,
+  "model_p_pos": 0.00027846041484735906,
+  "base_value": 0.5496120452880859,
+  "top_words": [
+   {
+    "word": "saccharine",
+    "score": -0.12093583663136087
+   },
+   {
+    "word": "rejected",
+    "score": -0.1136589835820511
+   },
+   {
+    "word": "episodes",
+    "score": -0.0844235905815367
+   },
+   {
+    "word": "easter-egg-colored",
+    "score": -0.07469011712601059
+   },
+   {
+    "word": "made",
+    "score": 0.04447794888756107
+   }
+  ]
+ },
+ {
+  "idx": 382,
+  "sentence": "a great ensemble cast ca n't lift this heartfelt enterprise out of the familiar .",
+  "model_label": 0,
+  "model_p_pos": 0.0030541629530489445,
+  "base_value": 0.469191312789917,
+  "top_words": [
+   {
+    "word": "n't",
+    "score": -0.56963001510303
+   },
+   {
+    "word": "lift",
+    "score": -0.22676540676911827
+   },
+   {
+    "word": "great",
+    "score": 0.2164567103391164
+   },
+   {
+    "word": "heartfelt",
+    "score": 0.20427312099491246
+   },
+   {
+    "word": "ensemble",
+    "score": 0.14553021730534965
+   }
+  ]
+ },
+ {
+  "idx": 330,
+  "sentence": "and that leaves a hole in the center of the salton sea .",
+  "model_label": 0,
+  "model_p_pos": 0.0015853734221309423,
+  "base_value": 0.4163282811641693,
+  "top_words": [
+   {
+    "word": "hole",
+    "score": -0.5883005985087948
+   },
+   {
+    "word": "center",
+    "score": 0.12619416298669725
+   },
+   {
+    "word": "salton",
+    "score": 0.06392994270451406
+   },
+   {
+    "word": "sea",
+    "score": 0.06363109318166
+   },
+   {
+    "word": "leaves",
+    "score": -0.062033143804001156
+   }
+  ]
+ },
+ {
+  "idx": 175,
+  "sentence": "bleakly funny , its characters all the more touching for refusing to pity or memorialize themselves .",
+  "model_label": 1,
+  "model_p_pos": 0.9984622001647949,
+  "base_value": 0.4808088541030884,
+  "top_words": [
+   {
+    "word": "funny",
+    "score": 0.6015645972802304
+   },
+   {
+    "word": "bleakly",
+    "score": -0.335500908549875
+   },
+   {
+    "word": "touching",
+    "score": 0.1933233483785963
+   },
+   {
+    "word": "memorialize",
+    "score": 0.12653127033263445
+   },
+   {
+    "word": "pity",
+    "score": -0.10472841565552655
+   }
+  ]
+ },
+ {
+  "idx": 272,
+  "sentence": "it 's like watching a nightmare made flesh .",
+  "model_label": 0,
+  "model_p_pos": 0.002251765690743923,
+  "base_value": 0.3029535412788391,
+  "top_words": [
+   {
+    "word": "nightmare",
+    "score": -0.43672595065436326
+   },
+   {
+    "word": "like",
+    "score": -0.1479689213083475
+   },
+   {
+    "word": "watching",
+    "score": 0.1369709244099795
+   },
+   {
+    "word": "made",
+    "score": 0.13108678799471818
+   },
+   {
+    "word": "a",
+    "score": 0.09710242369328626
+   }
+  ]
+ },
+ {
+  "idx": 215,
+  "sentence": "the best revenge may just be living well because this film , unlike other dumas adaptations , is far more likened to a treasure than a lengthy jail sentence .",
+  "model_label": 1,
+  "model_p_pos": 0.9931612014770508,
+  "base_value": 0.540320098400116,
+  "top_words": [
+   {
+    "word": "treasure",
+    "score": 0.3850105240708217
+   },
+   {
+    "word": "film",
+    "score": 0.20105151438619942
+   },
+   {
+    "word": "lengthy",
+    "score": -0.15758067807182669
+   },
+   {
+    "word": "than",
+    "score": 0.1471592695452273
+   },
+   {
+    "word": "well",
+    "score": 0.09850136204622686
+   }
+  ]
+ },
+ {
+  "idx": 326,
+  "sentence": "a beguiling splash of pastel colors and prankish comedy from disney .",
+  "model_label": 1,
+  "model_p_pos": 0.9994012117385864,
+  "base_value": 0.4481513798236847,
+  "top_words": [
+   {
+    "word": "beguiling",
+    "score": 0.15727395191788673
+   },
+   {
+    "word": "disney",
+    "score": 0.14068419917020947
+   },
+   {
+    "word": "comedy",
+    "score": 0.13144006056245416
+   },
+   {
+    "word": "prankish",
+    "score": -0.12394870119169354
+   },
+   {
+    "word": "splash",
+    "score": 0.06414615735411644
+   }
+  ]
+ },
+ {
+  "idx": 95,
+  "sentence": "this riveting world war ii moral suspense story deals with the shadow side of american culture : racial prejudice in its ugly and diverse forms .",
+  "model_label": 1,
+  "model_p_pos": 0.9993116855621338,
+  "base_value": 0.5267514586448669,
+  "top_words": [
+   {
+    "word": "riveting",
+    "score": 0.3926553463097662
+   },
+   {
+    "word": "deals",
+    "score": 0.15877391037065536
+   },
+   {
+    "word": "ugly",
+    "score": -0.13367302072583698
+   },
+   {
+    "word": "suspense",
+    "score": 0.126718764542602
+   },
+   {
+    "word": "diverse",
+    "score": 0.06859631897532381
+   }
+  ]
+ },
+ {
+  "idx": 392,
+  "sentence": "an overemphatic , would-be wacky , ultimately tedious sex farce .",
+  "model_label": 0,
+  "model_p_pos": 0.00039350977749563754,
+  "base_value": 0.4808088541030884,
+  "top_words": [
+   {
+    "word": "overemphatic",
+    "score": -0.3650590471273365
+   },
+   {
+    "word": "wacky",
+    "score": 0.1642097149985299
+   },
+   {
+    "word": "tedious",
+    "score": -0.12102173086532275
+   },
+   {
+    "word": "farce",
+    "score": -0.061420543268468464
+   },
+   {
+    "word": "would-be",
+    "score": -0.04203323049296159
+   }
+  ]
+ },
+ {
+  "idx": 287,
+  "sentence": "it 's a much more emotional journey than what shyamalan has given us in his past two movies , and gibson , stepping in for bruce willis , is the perfect actor to take us on the trip .",
+  "model_label": 1,
+  "model_p_pos": 0.9998316764831543,
+  "base_value": 0.533637285232544,
+  "top_words": [
+   {
+    "word": "has",
+    "score": 0.06929172668606043
+   },
+   {
+    "word": "shyamalan",
+    "score": 0.04295031726360321
+   },
+   {
+    "word": "perfect",
+    "score": 0.038441347889602184
+   },
+   {
+    "word": "actor",
+    "score": 0.027152891270816326
+   },
+   {
+    "word": "movies",
+    "score": 0.026009940728545188
+   }
+  ]
+ }
+]

@@ -1,0 +1,26 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Hugging Face / NLTK caches
+.cache/
+nltk_data/
+
+# Large or personal files kept out of the repo
+*.mp4
+*.docx
+CLAUDE.md
+report_notes.md
+/ICNLP_Project_Report.pdf
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Gradio
+flagged/
+.gradio/

@@ -1,0 +1,142 @@
+{
+  "inputs": [
+    "pos_score",
+    "neg_score",
+    "negation"
+  ],
+  "n_train": 320,
+  "n_test": 80,
+  "final_train_loss": 0.3733,
+  "fidelity_full_18_rules": {
+    "train": 0.837,
+    "test": 0.7
+  },
+  "fidelity_pruned": {
+    "train": 0.788,
+    "test": 0.688
+  },
+  "fidelity_vs_k": {
+    "2": {
+      "train": 0.719,
+      "test": 0.688
+    },
+    "3": {
+      "train": 0.769,
+      "test": 0.725
+    },
+    "4": {
+      "train": 0.759,
+      "test": 0.725
+    },
+    "6": {
+      "train": 0.794,
+      "test": 0.725
+    },
+    "8": {
+      "train": 0.822,
+      "test": 0.712
+    },
+    "12": {
+      "train": 0.831,
+      "test": 0.7
+    },
+    "18": {
+      "train": 0.841,
+      "test": 0.712
+    }
+  },
+  "baseline_majority_test": 0.538,
+  "baseline_logreg_test": 0.675,
+  "n_rules": 7,
+  "conditions_per_rule": 3,
+  "uncovered_labels": [],
+  "top_k_before_coverage": 6,
+  "membership_functions": {
+    "pos_score": {
+      "Low": {
+        "centre": 0.0,
+        "sigma": 0.0204
+      },
+      "High": {
+        "centre": 0.2905,
+        "sigma": 0.02
+      },
+      "Medium": {
+        "centre": 0.0332,
+        "sigma": 0.0244
+      }
+    },
+    "neg_score": {
+      "Low": {
+        "centre": 0.0379,
+        "sigma": 0.02
+      },
+      "Medium": {
+        "centre": 0.0771,
+        "sigma": 0.02
+      },
+      "High": {
+        "centre": 0.3119,
+        "sigma": 0.02
+      }
+    }
+  },
+  "rules": [
+    {
+      "rule": 6,
+      "text": "IF positive-word attention is High AND negative-word attention is Low AND negation is Absent THEN sentiment is POSITIVE (p_pos=0.95)",
+      "p_pos_at_prototype": 0.946,
+      "mean_firing": 0.112,
+      "dominant_n": 9,
+      "dominant_agreement": 1.0
+    },
+    {
+      "rule": 0,
+      "text": "IF positive-word attention is Low AND negative-word attention is Low AND negation is Absent THEN sentiment is NEGATIVE (p_pos=0.22)",
+      "p_pos_at_prototype": 0.219,
+      "mean_firing": 0.098,
+      "dominant_n": 11,
+      "dominant_agreement": 0.636
+    },
+    {
+      "rule": 12,
+      "text": "IF positive-word attention is Medium AND negative-word attention is Low AND negation is Absent THEN sentiment is POSITIVE (p_pos=0.93)",
+      "p_pos_at_prototype": 0.934,
+      "mean_firing": 0.293,
+      "dominant_n": 22,
+      "dominant_agreement": 0.773
+    },
+    {
+      "rule": 8,
+      "text": "IF positive-word attention is High AND negative-word attention is Medium AND negation is Absent THEN sentiment is POSITIVE (p_pos=0.79)",
+      "p_pos_at_prototype": 0.786,
+      "mean_firing": 0.028,
+      "dominant_n": 4,
+      "dominant_agreement": 0.5
+    },
+    {
+      "rule": 4,
+      "text": "IF positive-word attention is Low AND negative-word attention is High AND negation is Absent THEN sentiment is NEGATIVE (p_pos=0.00)",
+      "p_pos_at_prototype": 0.003,
+      "mean_firing": 0.146,
+      "dominant_n": 12,
+      "dominant_agreement": 0.667
+    },
+    {
+      "rule": 2,
+      "text": "IF positive-word attention is Low AND negative-word attention is Medium AND negation is Absent THEN sentiment is NEGATIVE (p_pos=0.10)",
+      "p_pos_at_prototype": 0.105,
+      "mean_firing": 0.038,
+      "dominant_n": 3,
+      "dominant_agreement": 1.0
+    },
+    {
+      "rule": 1,
+      "text": "IF positive-word attention is Low AND negative-word attention is Low AND negation is Present THEN sentiment is NEGATIVE (p_pos=0.25)",
+      "p_pos_at_prototype": 0.254,
+      "mean_firing": 0.2,
+      "dominant_n": 19,
+      "dominant_agreement": 0.474
+    }
+  ]
+}

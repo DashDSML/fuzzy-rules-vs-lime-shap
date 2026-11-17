@@ -1,0 +1,63 @@
+section,method,k,metric,value
+deletion,LIME,k=1,flip_rate,0.38
+deletion,LIME,k=1,conf_drop,0.3494
+deletion,LIME,k=1,words_removed,1.08
+deletion,SHAP,k=1,flip_rate,0.34
+deletion,SHAP,k=1,conf_drop,0.319
+deletion,SHAP,k=1,words_removed,1.02
+deletion,ANFIS,k=1,flip_rate,0.28
+deletion,ANFIS,k=1,conf_drop,0.2564
+deletion,ANFIS,k=1,words_removed,0.86
+deletion,Random,k=1,flip_rate,0.044
+deletion,Random,k=1,conf_drop,0.0373
+deletion,Random,k=1,words_removed,1.0
+deletion,LIME,k=3,flip_rate,0.66
+deletion,LIME,k=3,conf_drop,0.633
+deletion,LIME,k=3,words_removed,3.06
+deletion,SHAP,k=3,flip_rate,0.54
+deletion,SHAP,k=3,conf_drop,0.5225
+deletion,SHAP,k=3,words_removed,2.88
+deletion,ANFIS,k=3,flip_rate,0.3
+deletion,ANFIS,k=3,conf_drop,0.278
+deletion,ANFIS,k=3,words_removed,1.36
+deletion,Random,k=3,flip_rate,0.144
+deletion,Random,k=3,conf_drop,0.1276
+deletion,Random,k=3,words_removed,2.98
+deletion,LIME,k=5,flip_rate,0.46
+deletion,LIME,k=5,conf_drop,0.4439
+deletion,LIME,k=5,words_removed,5.18
+deletion,SHAP,k=5,flip_rate,0.46
+deletion,SHAP,k=5,conf_drop,0.4396
+deletion,SHAP,k=5,words_removed,4.76
+deletion,ANFIS,k=5,flip_rate,0.3
+deletion,ANFIS,k=5,conf_drop,0.278
+deletion,ANFIS,k=5,words_removed,1.4
+deletion,Random,k=5,flip_rate,0.156
+deletion,Random,k=5,conf_drop,0.145
+deletion,Random,k=5,words_removed,4.94
+deletion,ANFIS,k=all,flip_rate,0.3
+deletion,ANFIS,k=all,conf_drop,0.278
+deletion,ANFIS,k=all,words_removed,1.4
+agreement,ANFIS,,agreement_with_distilbert,0.66
+agreement,LIME,,agreement_with_distilbert,0.96
+agreement,SHAP (exact),,agreement_with_distilbert,1.0
+agreement,SHAP (top-5 only),,agreement_with_distilbert,0.96
+agreement,ANFIS vs LIME,,label_agreement,0.7
+agreement,LIME,,mean_surrogate_r2,0.4133
+interpretability,ANFIS,,global_rules,7
+interpretability,ANFIS,,global_conditions,21
+interpretability,ANFIS,,units_per_explanation,3
+interpretability,ANFIS,,units_kind,conditions in fired rule
+interpretability,ANFIS,,distinct_explanations,7
+interpretability,ANFIS,,evidence_coverage,0.84
+interpretability,LIME,,global_rules,0
+interpretability,LIME,,global_conditions,0
+interpretability,LIME,,units_per_explanation,5
+interpretability,LIME,,units_kind,word scores (top-k shown)
+interpretability,LIME,,distinct_explanations,50
+interpretability,SHAP,,global_rules,0
+interpretability,SHAP,,global_conditions,0
+interpretability,SHAP,,units_per_explanation,19.78
+interpretability,SHAP,,units_kind,word scores (every word scored)
+interpretability,SHAP,,distinct_explanations,50
+interpretability,LIME vs SHAP,,top3_word_overlap,0.5333
